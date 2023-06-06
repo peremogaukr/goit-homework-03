@@ -71,8 +71,6 @@ ul {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
-  
-   
 }
 
 .span-header {
@@ -140,6 +138,8 @@ ul {
     letter-spacing: 0.02em;
     color: #FFFFFF;
     max-width: 496px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .section-one-button {
@@ -156,11 +156,13 @@ ul {
     height: 56px;
     border: none;
     border-radius: 4px;
+    margin-left: auto;
     margin-right: auto;
 }
 
 .section-one-button:hover {
     background-color: #404BBF;
+    text-align: center;
 }
 
 .section-one-button:focus {
